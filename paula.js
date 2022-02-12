@@ -1,8 +1,8 @@
 var paula = [Monedero: 0, anno : 8];
 
-function Ganardinero(a){
+function perderdinero(a){
     paula.Monedero = a
-    return console.log(paula);
+    return console.log(pn);
 };
 
 //paula tontina
